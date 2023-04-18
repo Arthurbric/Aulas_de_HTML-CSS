@@ -1,0 +1,12 @@
+p {
+	font-size: 20px;
+	/*letter-spacing: 15px;
+	word-spacing: 15px; 
+	*/
+	line-height: 10px;/*criar espaço entre as linhas */
+	text-align: center ; /*nao long text */
+
+}
+h1{
+	letter-spacing: 15px; /*para dar espaco --> Tracking*/
+}
